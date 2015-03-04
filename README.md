@@ -1,3 +1,3 @@
 # MainService
 
-Help library for init long running services from main func
+Help Go library for init long running services from main func
